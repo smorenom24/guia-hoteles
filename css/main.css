@@ -3,7 +3,9 @@
     color:black;
     margin-top: 50px;
 }
-
+.container{
+    margin-top: 80px;
+}
 footer{
     padding: 10px 10px 0px 10px;
     background-color: yellow;
